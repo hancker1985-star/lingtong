@@ -1,0 +1,7 @@
+{
+  "name": "吧唧魔法机 Pro",
+  "description": "专业级800x800圆型吧唧设计工具。支持9张连拼A4排版、AI自动补全、交互式缩放平移与拖拽上传。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
